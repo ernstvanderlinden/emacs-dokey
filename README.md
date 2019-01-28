@@ -13,6 +13,7 @@ To enable **dokey** on Emacs startup, add the following to your init.el:
 ```elisp
 (require 'dokey)
 ```
+
 #### Dependency
 *None*
 
